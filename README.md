@@ -22,12 +22,12 @@
 <p>Digital advertising are highly automated today. So-called “programmatic buying” matches a company’s digital ads with publishers while determining the price to be paid for the ad (often with an auction) and some degree of targeting to the viewer. Now a days, variety of Non – digital marketing is also fully automated.</p> 
 <p>The Keyword and Context method can also be studied under vocabulary retention. The study was compared on immediate and delayed vocabulary retention of EFL learners. It compared the rate of forgetting in Keyword and context groups. The study design was, it made 40 learners from two intact classes, were assigned to the Keyword and the context group. The context group focused on learning vocabulary in their real context, while the Keyword group received the keyword strategy training. The result concluded, that learners in the keyword group recalled more vocabulary immediately after training and week after. On the other hand, the rate of forgetting was more in the context group than in the Keyword group.</p> 
 <p>I conclude that, Keyword in Context and their techniques are widely used in businesses, academic, technology and their implementations are growing extremely.  They tend to grow rapidly since it is connected with human cognition and able to predict the accurate possibilities which is used for computing.</p></br> 
-<b>REFERENCE LINKS:</b>                      
-Shanmugasundaram, J. (n.d.). Context-Sensitive Keyword Search and Ranking for XML.http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.2549&rep=rep1&type=pdf
-M. Meier, W. (n.d.). Generating Keywords in Context (KWIC) Output. http://cdi.uvm.edu/exist/kwic.xml
-THOMAS H, D. (n.d.). Last Marketer Please Turn Out the Lights. Wall Street Journal.http://blogs.wsj.com/cio/2015/04/08/last-marketer-please-turn-out-the-lights/?KEYWORDS=keyword+in+context&cb=logged0.17352843447588384
-Googling for questions as well as answers. (n.d.). The Economist.  http://www.economist.com/node/13761953
-Search Engine Optimization Starter Guide. (n.d.). Retrieved from http://static.googleusercontent.com/media/www.google.com/en/us/webmasters/docs/search-engine-optimization-starter-guide.pdf
-Saeedi, M. (2012, January 7). The effect of keyword and context methods on vocabulary retention of Iranian EFL learners. Retrieved from http://www.academia.edu/1824316/The_effect_of_keyword_and_context_methods_on_vocabulary_retention_of_Iranian_EFL_learners
-Halasz, J. (2013, September 16). How Search Engines Work -- Really! Retrieved from http://searchengineland.com/how-search-engines-work-really-171556
+<b>REFERENCE LINKS:</b></br>                      
+<p>Shanmugasundaram, J. (n.d.). Context-Sensitive Keyword Search and Ranking for XML.<link>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.2549&rep=rep1&type=pdf</link></p></br>
+<p>M. Meier, W. (n.d.). Generating Keywords in Context (KWIC) Output. http://cdi.uvm.edu/exist/kwic.xml
+THOMAS H, D. (n.d.). Last Marketer Please Turn Out the Lights. Wall Street Journal.<link>http://blogs.wsj.com/cio/2015/04/08/last-marketer-please-turn-out-the-lights/?KEYWORDS=keyword+in+context&cb=logged0.17352843447588384</link></p>
+<p>Googling for questions as well as answers. (n.d.). The Economist.  http://www.economist.com/node/13761953
+Search Engine Optimization Starter Guide. (n.d.). Retrieved from <link>http://static.googleusercontent.com/media/www.google.com/en/us/webmasters/docs/search-engine-optimization-starter-guide.pdf</link></p>
+<p>Saeedi, M. (2012, January 7). The effect of keyword and context methods on vocabulary retention of Iranian EFL learners. Retrieved from <link>http://www.academia.edu/1824316/The_effect_of_keyword_and_context_methods_on_vocabulary_retention_of_Iranian_EFL_learners</link></p>
+<p>Halasz, J. (2013, September 16). How Search Engines Work -- Really! Retrieved from <link>http://searchengineland.com/how-search-engines-work-really-171556</link></p>
 
