@@ -1,6 +1,7 @@
 # Keyword_In_Context_Research_paper
 <b>KWIC [KEYWORD IN CONTEXT]</b></br>
 <i>By Karthigaa Vijayakumar</i> </br>
+<i>date: May 2 2015</i></br>
 
 <b>INTRODUCTION:</b>
                                 <p>Worldwide changes in physical Infrastructure, population, innovative improvement, and atmosphere have added to a data blast. This is a significant test to data chiefs, who are confronted, not just with the test of selecting, gaining, and putting away the data, with the enduring issue of how to make it accessible to potential clients rapidly and effortlessly. The world is moving from manual to robotized practices. Data focuses are sticking to this same pattern, clearing path for robotized procurement, transforming, and scattering of data to demographics. Indexing administrations may be the answer for giving present and solid data to data seekers.<p>
